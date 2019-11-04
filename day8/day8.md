@@ -1,20 +1,21 @@
 # [lec08]Deep-learning: appearance of Backpropagation
-Trying to make thinking machine, people tries to emitate human brain’s neuron signal method. 
-​<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day8/images/day8_NeuronStructure.png" style="zoom:40%;"/> 
+Trying to make thinking machine, people tries to emitate human brain’s neuron signal method. <br>
+​<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day8/images/day8_NeuronStructure.png" style="zoom:40%;"/> <br>
 <i>Neuron Structure</i>
 
 ### XOR Problem
-​<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day8/images/day8_XORproblem.png" style="zoom:40%;"/> 
+<br>
+​<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day8/images/day8_XORproblem.png" style="zoom:40%;"/> <br>
 AND/OR operations works well, but XOR operation cannot be linearly seperable.
 
 ***
 ### Perceptron
 > A type of Neural Network that draw a binary conclusion by 0/1. Emitates neuron’s signal.
-> 1969 - Marvin Minsky(MIT AI Lab founder) proved <i>W,b</i> coefficients cannot be controled at <i>Y=wX+b</i>.
+> 1969 - Marvin Minsky(MIT AI Lab founder) proved <i>W,b</i> coefficients cannot be controled at <i>Y=wX+b</i>.<br>
 
 
-​<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day8/images/day8_MultiLayeredPerceptron.png" style="zoom:40%;"/> 
->><multi layered perceptron>
+​<img src="https://github.com/teddy309/10-Days-Of-DL/blob/master/day8/images/day8_MultiLayeredPerceptron.png" style="zoom:40%;"/> <br>
+<multi layered perceptron><br>
   
 ***
 ### Backpropagation
